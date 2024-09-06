@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "00 - Meta/Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2 - Source Material",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "4386358d17ecaf21",
+    "type": "split",
+    "children": [
+      {
+        "id": "367dd624962b26f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb0bdc79cfd9673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Meta/Templates/daily.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48593dd3c7a65e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "852e069b11f431f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9338a8fb0d4d15fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef823667f59a54ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3a75eb3663cbed3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1814762ad5d92470",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce151d300d11c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a37e311014f4af0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Meta/Templates/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd1017c8924e73c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Meta/Templates/daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "243fd6459404ee5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f4533126e33c844d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Meta/Templates/daily.md"
+              }
+            }
+          },
+          {
+            "id": "5b864cc0b387826c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "aeb0bdc79cfd9673",
+  "lastOpenFiles": [
+    "01 - Daily Notes/September 2nd,2024.md",
+    "00 - Meta/Templates/daily.md",
+    "01 - Daily Notes/September 1st,2024.md",
+    "01 - Daily Notes/September 6th,2024.md",
+    "01 - Daily Notes/September 4th,2024.md",
+    "00 - Meta/Templates/just notes.md",
+    "02 - Source Material/system creating multiple monitors for onedrive.md",
+    "01 - Daily Notes/September 5th,2024.md",
+    "02 - Source Material/Coursera/Introduction to APIs.md",
+    "03 - Tags/Web Service.md",
+    "03 - Tags/software component.md",
+    "03 - Tags/Pandas.md",
+    "03 - Tags/API.md",
+    "00 - Meta/Templates/temp 1.md",
+    "00 - Meta/Attachments/Screenshot 2024-09-05 at 00-37-56 Application Program Interface Coursera.png",
+    "00 - Meta/Attachments/Screenshot 2024-09-05 at 00-43-55 Application Program Interface Coursera.png",
+    "00 - Meta/Attachments/Pasted image 20240902230604.png",
+    "03 - Tags/Library.md",
+    "00 - Meta/Attachments/screenshot_04092024_232712.jpg",
+    "03 - Tags/REST API.md",
+    "3 - Tags/REST API 1.md",
+    "3 - Tags/Library 1.md",
+    "2 - Source Material/Introduction to APIs-Rin-Rin.md",
+    "2 - Source Material/Introduction to APIs-Rin-2.md",
+    "2 - Source Material/Introduction to APIs-Rin.md",
+    "2 - Source Material/API 1.md",
+    "3 - Tags/API 1.md",
+    "2 - Source Material/Introduction to APIs-Rin-Rin.md.partial",
+    "2 - Source Material/Introduction to APIs-Rin-2.md.partial",
+    "2 - Source Material/Introduction to APIs-Rin.md.partial",
+    "2 - Source Material/API 1.md.partial",
+    "3 - Tags/API 1.md.partial",
+    "3 - Tags/REST API 1.md.partial",
+    "2 - Source Material/Introduction to APIs.md.partial",
+    "2 - Source Material/REST API.md.partial",
+    "3 - Tags/Library 1.md.partial",
+    "2 - Source Material/API.md.partial",
+    "02 - Source Material/Books/Dark-Psychology-Reading-List-Rough-Note.md",
+    "03 - Tags/Discord.md",
+    "2 - Source Material/indexx.md"
+  ]
+}

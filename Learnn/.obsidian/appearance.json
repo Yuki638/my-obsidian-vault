@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Proper Dark",
+  "enabledCssSnippets": [
+    "Colored_Sidebar",
+    "Daily_Note",
+    "CyanVoxels_General_Tweaks",
+    "coloured_command",
+    "title-style",
+    "Quote_box_customize",
+    "coloured_header"
+  ],
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrains Mono"
+}
