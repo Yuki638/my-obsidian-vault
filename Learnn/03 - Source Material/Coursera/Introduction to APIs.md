@@ -8,7 +8,7 @@
 "[[API]] lets two pieces of software talk to each other."
 You can use [[API]] to communicate with other software via inputs and outputs.
 
-e.g- **[[Pandas]]** We use the pandas [[API]] to process the data by communicating with the other [[software component]].
+e.g- **[[Pandas]]** We use the [[pandas]] [[API]] to process the data by communicating with the other [[software component]].
 ![[screenshot_04092024_232712.jpg]]
 
 # <u>REST APIs</u>
@@ -31,8 +31,8 @@ the [[Web Service]] is referred to as a resource. The client sends requests to t
 #### <u>HTTP Method</u>
 
 A way of transmitting data over the internet. We tell the [[REST API]] what to do by sending a request.
-The request is usually communicated via an HTTP message. The HTTP message usually contains JSON file. This contain instruction for what operation we would like the service to perform. This Operation is transmitted via the internet.
+The request is usually communicated via an HTTP message. The HTTP message usually contains [[JSON]] file. This contain instruction for what operation we would like the service to perform. This Operation is transmitted via the internet.
 ![[Screenshot 2024-09-05 at 00-37-56 Application Program Interface Coursera.png]]
 
-The service performs the operation in a similar manner, the [[Web Service]] returns a response via an HTTP message , Where the information is usually returned via a JSON file. This information is transmitted back to the client.
+The service performs the operation in a similar manner, the [[Web Service]] returns a response via an HTTP message , Where the information is usually returned via a [[JSON]] file. This information is transmitted back to the client.
 ![[Screenshot 2024-09-05 at 00-43-55 Application Program Interface Coursera.png]]

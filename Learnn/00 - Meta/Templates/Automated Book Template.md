@@ -13,6 +13,7 @@ Author:
   - "[[{{author}}]]"
 URL: 
 Rating: 
+pages: 
 Priority: 
 Format: 
 Cover: "![{{Title}}]({{coverUrl}})"
@@ -56,7 +57,8 @@ Year: [[{{date:YYYY}}]]
 ## Highlight from Source
 
 >[!quote]+ 
->"Who's gunna match my nasty"
+>"Write a Quote lol"
+
 
 
 

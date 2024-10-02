@@ -1,1 +1,13 @@
-{}
+{
+  "enabledCssSnippets": [
+    "Colored_Sidebar",
+    "YukiNotes",
+    "Notebook_Backgroound",
+    "Daily_Note",
+    "coloured_header"
+  ],
+  "cssTheme": "Shade Sanctuary",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono"
+}

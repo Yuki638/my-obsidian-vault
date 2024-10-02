@@ -13,10 +13,11 @@ Author:
   - "[[Bernard Cornwell]]"
 URL: 
 Rating: 
+pages: 
 Priority: 
 Format: 
 Cover: "![Excalibur](http://books.google.com/books/content?id=i594q6KKpqMC&printsec=frontcover&img=1&zoom=1&source=gbs_api)"
-status: complete
+status: unread
 Date Completed:
 ---
 
@@ -27,7 +28,7 @@ Topics: 
 Tags: #Book  
 Related Books:
 
-Date: [[06-09-24]]
+Date: [[07-09-24]]
 Month: [[September 2024]]
 Quarter: [[Q3 - 2024]]
 Year: [[2024]]
@@ -56,4 +57,4 @@ Year: [[2024]]
 ## Highlight from Source
 
 >[!quote]+ 
->"Who's gunna match my nasty"
+>"Write a Quote lol"

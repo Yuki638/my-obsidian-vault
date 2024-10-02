@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Meta/Templates/Automated Book Template.md",
+                "file": "01 - Daily Notes/October 2nd,2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:daily",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Meta/Templates/Automated Book Template.md",
+                "file": "01 - Daily Notes/October 2nd,2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Meta/Templates/Automated Book Template.md",
+                "file": "01 - Daily Notes/October 2nd,2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Meta/Templates/Automated Book Template.md"
+                "file": "01 - Daily Notes/October 2nd,2024.md"
               }
-            }
-          },
-          {
-            "id": "5b864cc0b387826c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,9 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,53 +149,53 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9338a8fb0d4d15fd",
+  "active": "c3ded5edcde870fb",
   "lastOpenFiles": [
     "00 - Meta/Templates/daily.md",
-    "01 - Daily Notes/September 6th,2024.md",
-    "02 - Books/How to Ikigai.md",
-    "02 - Books/my book database.md",
-    "02 - Books/Excalibur.md",
-    "00 - Meta/Cover Image/Excalibur.jpg",
-    "02 - Books/Caraval.md",
-    "00 - Meta/Cover Image/How to Ikigai.jpg",
-    "02 - Books/The Winter King.md",
-    "02 - Books/Ikigai.md",
-    "00 - Meta/Cover Image/Ikigai.jpg",
-    "00 - Meta/Cover Image/Caraval.jpg",
-    "00 - Meta/Templates/New Book Template.md",
-    "00 - Meta/Templates/just notes.md",
-    "00 - Meta/Templates/Automated Book Template.md",
-    "00 - Meta/Cover Image/The Winter King-Cornwell.png",
-    "00 - Meta/Cover Image/The Winter King.jpg",
-    "00 - Meta/Attachments/screenshot_04092024_232712.jpg",
-    "00 - Meta/Attachments/Screenshot 2024-09-05 at 00-43-55 Application Program Interface Coursera.png",
-    "00 - Meta/Attachments/Screenshot 2024-09-05 at 00-37-56 Application Program Interface Coursera.png",
-    "00 - Meta/Attachments/Pasted image 20240902230604.png",
-    "Caraval.md",
-    "Stephanie Garber.md",
-    "Automated Book Note.md",
-    "02 - Source Material/Books/BookShelves/Bookself.md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 05 (T).md",
-    "02 - Source Material/Books/BookShelves/Books Covers.md",
-    "02 - Source Material/Books/The Winter King1.md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 01 (A-D).md",
-    "02 - Source Material/Books/Book Database.md",
-    "02 - Source Material/Books/BookShelves/Home 🗺️.md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 06 (U-Z).md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 04 (R-S).md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 03 (I-P).md",
-    "02 - Source Material/Books/BookShelves/Bookshelf 02 (E-H).md",
-    "02 - Source Material/Books/Book Database",
-    "02 - Source Material/Books/BookShelves",
-    "00 - Meta/Cover Image",
-    "00 - Meta/Templates/temp 1.md",
-    "2 - Source Material/Introduction to APIs-Rin-Rin.md.partial",
-    "2 - Source Material/Introduction to APIs-Rin-2.md.partial",
-    "2 - Source Material/Introduction to APIs-Rin.md.partial",
-    "2 - Source Material/API 1.md.partial",
-    "3 - Tags/API 1.md.partial",
-    "3 - Tags/REST API 1.md.partial",
-    "2 - Source Material/Introduction to APIs.md.partial"
+    "01 - Daily Notes/October 2nd,2024.md",
+    "03 - Source Material/LeetCode Day 1.md",
+    "05 - Tags/numpy.md",
+    "01 - Daily Notes/October 1st,2024.md",
+    "01 - Daily Notes/September 30th,2024.md",
+    "01 - Daily Notes/September 26th,2024.md",
+    "03 - Source Material/variable.md",
+    "00 - Meta/Attachments/Pasted image 20240930213855.png",
+    "01 - Daily Notes/September 25th,2024.md",
+    "03 - Source Material/Lets find out those piece of Outliers.md",
+    "03 - Source Material/how to clean data.md",
+    "03 - Source Material/Untitled.md",
+    "03 - Source Material/checking duplicate rows in a dataset.md",
+    "03 - Source Material/system creating multiple monitors for onedrive.md",
+    "03 - Source Material/Working with different file formats.md",
+    "01 - Daily Notes/September 24th,2024.md",
+    "01 - Daily Notes/September 22nd,2024.md",
+    "00 - Meta/Attachments/Pasted image 20240922152840.png",
+    "06 - Projects/web scraping requirements to learn full web scraping.md",
+    "06 - Projects/getting started with Orange-canvas.md",
+    "01 - Daily Notes/September 21st,2024.md",
+    "01 - Daily Notes/September 20th,2024.md",
+    "00 - Meta/Attachments/Pasted image 20240920222111.png",
+    "00 - Meta/Attachments/Pasted image 20240920221442.png",
+    "00 - Meta/Attachments/Pasted image 20240920220538.png",
+    "00 - Meta/Attachments/Pasted image 20240920220442.png",
+    "03 - Source Material/Hacktober.md",
+    "03 - Source Material/Other/difference between List and arrays in python.md",
+    "05 - Tags/jupyter notebook.md",
+    "00 - Meta/Attachments/Pasted image 20240920210342.png",
+    "00 - Meta/Attachments/Pasted image 20240920203504.png",
+    "03 - Source Material/Coursera/GET and POST for the requests module in python.md",
+    "03 - Source Material/Coursera/BeautifulSoup4.md",
+    "03 - Source Material/visualization.md.partial",
+    "00 - Meta/Attachments/Pasted image 20240912173813.png",
+    "00 - Meta/Attachments/Pasted image 20240912182211.png",
+    "dataset.md.partial",
+    "00 - Meta/Attachments/Copy of Raisin_Dataset 1.csv",
+    "00 - Meta/Attachments/Copy of Raisin_Dataset.csv",
+    "repository.md.partial",
+    "module.md.partial",
+    "web scraping using python.md.partial",
+    "DNS resolver.md.partial",
+    "02 - Books/bookshelf",
+    "ebay"
   ]
 }

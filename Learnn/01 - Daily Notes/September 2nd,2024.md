@@ -1,11 +1,11 @@
-\ # 13:15
+ # 13:15
 
 **Focus for Today:** 
-* i'm gonna finish API s
+* i'm gonna finish [[API]] s
 * i'll do integration
 **Today's Schedule:**
 * **Morning**
-    * Survive college
+    * Survive [[college]]
 * **Afternoon**
     * Attend Training classes
 * **Evening**
@@ -15,9 +15,9 @@
 ---
 
 ## To-Do List:
-- [x] API s
+- [x] [[API]] s
 - [ ] Calculus
-- [ ] Test the "test.py"
+- [x] Test the "test.py"
 
 ## Notes & Ideas:
 * I have to get started with Mathematics soon so i just have to start with calculus and matrices . Also i'm planning to make my own [[browser]]. I'll try to interact more with the guy on [[Discord]]

@@ -12,11 +12,11 @@ Topics:
 Author:
   - "[[Tim Tamashiro]]"
 URL: 
-Rating: 
+Rating: ⭐️⭐️⭐️⭐️⭐️
 Priority: 
 Format: 
 Cover: "![How to Ikigai](http://books.google.com/books/content?id=KpYREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)"
-status: complete
+status: unread
 Date Completed:
 ---
 f
@@ -56,4 +56,4 @@ Year: [[2024]]
 ## Highlight from Source
 
 >[!quote]+ 
->"Who's gunna match my nasty"
+>"Write Quote"

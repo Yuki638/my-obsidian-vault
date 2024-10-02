@@ -7,9 +7,11 @@
     "coloured_command",
     "title-style",
     "Quote_box_customize",
-    "coloured_header"
+    "coloured_header",
+    "YukiNotes"
   ],
   "textFontFamily": "JetBrains Mono",
   "theme": "obsidian",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono"
 }

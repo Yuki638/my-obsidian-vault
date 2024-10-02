@@ -1,8 +1,8 @@
 12:43
 
 **Focus for Today:** 
-* write notes on API s
-* complete the REST API
+* write notes on [[API]] s
+* complete the [[REST API]]
 
 **Today's Schedule:**
 * **Morning**

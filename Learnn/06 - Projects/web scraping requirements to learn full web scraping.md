@@ -1,0 +1,2 @@
+chromedriver/selenium/beautifulsoup4
+requests

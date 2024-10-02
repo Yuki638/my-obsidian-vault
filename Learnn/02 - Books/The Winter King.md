@@ -5,14 +5,15 @@ tags:
   - "#Source/Books"
   - "#📖"
 Category:
-  - Books
+  - History
+  - Fiction
 Topics:
   - Goals
   - "[[Fiction]]"
 Author:
   - "[[Bernard Cornwell]]"
 URL: 
-Rating: 
+Rating: ⭐️⭐️⭐️⭐️⭐️
 Priority: 
 Format: 
 Cover: "![The Winter King](http://books.google.com/books/content?id=0CsNyIl7DlgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)"
@@ -56,4 +57,4 @@ Year: [[2024]]
 ## Highlight from Source
 
 >[!quote]+ 
->"Who's gunna match my nasty"
+>"write quote"
